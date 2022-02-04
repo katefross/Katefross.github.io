@@ -1,4 +1,4 @@
-# <h1 align="center">Hi there I'm Kate fross Saramosing </h1>
+<h1 align="center">Hi there I'm Kate fross Saramosing </h1>
 
 ![This is an image](me.jpg)
 
@@ -7,10 +7,20 @@
 I'm currently a fourth year student taking information technology in Jose Maria College. very willing to learn new skills about multimedia and evolving technology.
 my current hobbies is photography , cosplaying , photo editing and making journal stationary.
 
-## Personal Information 
+<h1 align="center">Personal Information  </h1>
 
-### Full name : Kate fross Saramosing  
+<pre>
+- Full name : Kate fross Saramosing    - Civil Status:Single
+- Age: 22 years                        -
+- Height: 5'7 
+- Birth place : Davao City 
+</pre>
 
+ Markup : **Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
+          
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 
