@@ -1,14 +1,15 @@
-<h1 align="center">Hi there I'm Kate fross </h1>
+# <h1 align="center">Hi there I'm Kate fross Saramosing </h1>
 
 ![This is an image](me.jpg)
 
 <h1 align="center">About Me</h1>
 
-You can use the [editor on GitHub](https://github.com/katefross/katefross.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I'm currently a fourth year student taking information technology in Jose Maria College. very willing to learn new skills about multimedia and evolving technology.
+my current hobbies is photography , cosplaying , photo editing and making journal stationary.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Personal Information 
 
-<h1 align="center">About Me</h1>
+### Full name : Kate fross Saramosing  
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
