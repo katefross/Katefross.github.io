@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to My Portfolio</h1>
 
-![Screenshot](https://raw.githubusercontent.com/daviddarnes/alembic/master/me.jpg)
+![This is an image](me.jpg)
 
 
 You can use the [editor on GitHub](https://github.com/katefross/katefross.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
