@@ -11,23 +11,26 @@ my current hobbies is photography , cosplaying , photo editing and making journa
 
 <h1 align="center">Personal Information </h1>
 
-## - Full name : Kate fross Saramosing  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - Civil Status:Single
+<p1> font 25 ; 
+- Full name : Kate fross Saramosing  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - Civil Status:Single
 ## - Age : 22 years &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -Phone: +639260958626
 ## - Height : 5'7  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - Website: Katefross.github.io
-## - Birth place : Davao City  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- Email : Katefross.saramosing@jmc.edu.ph
+## - Birth place : Davao City  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- Email : Katefross.saramosing@jmc.edu.ph </p1>
 
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 <h1 align="center">Education </h1>
 
-### College : Jose Maria College 
+### College: Jose Maria College 
 ### Senior School:  Francisco Bangoy Senio High Shool
 ### Secondary school: Francisco Bangoy National highschool
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/katefross/katefross.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 <h1 align="center"> Hobbies </h1>
+
+# Photography
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
