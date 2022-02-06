@@ -11,7 +11,7 @@ my current hobbies is photography , cosplaying , photo editing and making journa
 
 <h1 align="center">Personal Information </h1>
 
-<p1> font 25 ; 
+<p1>  
 - Full name : Kate fross Saramosing  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - Civil Status:Single
 ## - Age : 22 years &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -Phone: +639260958626
 ## - Height : 5'7  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - Website: Katefross.github.io
@@ -28,13 +28,21 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/katefross/katefross.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
+# SKILLS
+
+- Microsoft Office Proficiency
+- Photo/Video Manipulation and Editing
+- Computer Hardware and Software Maintenance
+- Basic Programming (C, C++, C#, Java, Python, JavaScript, HTML5/CSS)
+- Basic Data entry
+
 <h1 align="center"> Hobbies </h1>
 
 # Photography
 
 I started Photography since 2018 i only use mobilephone that time because camera where so expensive unlike today it can be installment or lay away method.im getting interested and want to learn new skills through photography and that's why i save some of my allowance and bought a camera. my very first camera is Nikon 3500D and Upgraded to Canon and last 2021 i upgrade to Sony A6000. im really thankful for those people who trusted me in my work and hopefully will upgrade soon. here some of my shoots and link of my facebook photography page 
 
-[]()
+[Kiokophotography]()
 
 ![This is an image](.jpg)
 
@@ -47,6 +55,8 @@ Since 2014 i joined Cosplay community in Davao city it was fullfilling to recrea
 # Stationary
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/katefross/katefross.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![This is an image](.jpg)
+
 
 ### Support or Contact
 
