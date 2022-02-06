@@ -32,9 +32,19 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 # Photography
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I started Photography since 2018 i only use mobilephone that time because camera where so expensive unlike today it can be installment or lay away method.im getting interested and want to learn new skills through photography and that's why i save some of my allowance and bought a camera. my very first camera is Nikon 3500D and Upgraded to Canon and last 2021 i upgrade to Sony A6000. im really thankful for those people who trusted me in my work and hopefully will upgrade soon. here some of my shoots and link of my facebook photography page 
 
-### Works
+[]()
+
+![This is an image](.jpg)
+
+# Cosplay
+
+Since 2014 i joined Cosplay community in Davao city it was fullfilling to recreate some of my favorate characters and give life 
+
+![This is an image](.jpg)
+
+# Stationary
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/katefross/katefross.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
