@@ -25,8 +25,12 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 ### College: Jose Maria College 
 
 ### Senior School:  Francisco Bangoy Senio High Shool
-    - ICT OJT in SSS Bajada completed 480 hours 2016-2017
-    - Completed TESDA ICT Assesment 2016-2017
+   
+   - ICT OJT in SSS Bajada completed 480 hours (2016-2017)
+  
+  - Completed TESDA ICT Assesment (2016-2017)
+
+
 ### Secondary school: Francisco Bangoy National highschool
 
 
