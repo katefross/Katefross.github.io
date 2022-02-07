@@ -25,11 +25,10 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 ### College: Jose Maria College 
 
 ### Senior School:  Francisco Bangoy Senio High Shool
-    - ICT OJT in SSS Bajada completed 480 hours 
-    - TESDA CSS 
+    - ICT OJT in SSS Bajada completed 480 hours 2016-2017
+    - Completed TESDA ICT Assesment 2016-2017
 ### Secondary school: Francisco Bangoy National highschool
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/katefross/katefross.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 # SKILLS
 
