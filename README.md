@@ -12,10 +12,18 @@ my current hobbies is photography , cosplaying , photo editing and making journa
 <h1 align="center">Personal Information </h1>
 
 <p1>  
-- Full name : Kate fross Saramosing  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - Civil Status:Single
-## - Age : 22 years &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -Phone: +639260958626
-## - Height : 5'7  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - Website: Katefross.github.io
-## - Birth place : Davao City  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- Email : Katefross.saramosing@jmc.edu.ph </p1>
+
+- Full name : Kate fross Saramosing  
+   
+- Civil Status:Single
+   
+- Age : 22 years 
+   
+- Phone: +639260958626
+   
+- Height : 5'7                                                 - Website: Katefross.github.io
+   
+- Birth place : Davao City  - Email : Katefross.saramosing@jmc.edu.ph </p1>
 
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
