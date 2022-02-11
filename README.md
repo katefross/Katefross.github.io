@@ -2,7 +2,7 @@
 
 ![This is an image](me.jpg)
 
-<h1 align="center">About Me
+<h1 align="center">CURRICULUM VITAE 
 </h1>
 
 
@@ -21,9 +21,13 @@ my current hobbies is photography , cosplaying , photo editing and making journa
    
 - Phone: +639260958626
    
-- Height : 5'7                                                 - Website: Katefross.github.io
+- Height : 5'7                                                
+
+- Website: Katefross.github.io
    
-- Birth place : Davao City  - Email : Katefross.saramosing@jmc.edu.ph </p1>
+- Birth place : Davao City  
+   
+- Email : Katefross.saramosing@jmc.edu.ph </p1>
 
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
@@ -50,6 +54,10 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 - Basic Programming (C, C++, C#, Java, Python, JavaScript, HTML5/CSS)
 - Basic Data entry
 
+
+
+# About me
+ very willing to learn new skills about multimedia and evolving technology. my current hobbies is photography , cosplaying , photo editing and making journal stationary
 <h1 align="center"> Hobbies </h1>
 
 # Photography
@@ -72,6 +80,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ![This is an image](.jpg)
 
 
-### Support or Contact
-
+#Travel 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
