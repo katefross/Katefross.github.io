@@ -14,16 +14,21 @@ my current hobbies is photography , cosplaying , photo editing and making journa
 <p1>  
 
 - Full name : Kate fross Saramosing  
+   
 - Civil Status:Single
-- Age : 22 years 
+   
+- Age : 22 years old
+   
 - Phone: +639260958626 
-- Height : 5'7                                                
+   
+- Height : 5'7     
+   
 - Website: Katefross.github.io
+   
 - Birth place : Davao City  
+   
 - Email : Katefross.saramosing@jmc.edu.ph </p1>
 
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 <h1 align="center">Education </h1>
 
@@ -80,7 +85,17 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 # Travel 
 
-### Mount Fuji
-### Imperial Tokyo
+### Mount Fuji and  Imperial Tokyo
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- this are is my dream travel aside from wanting to travel localy this is also my dream to visit japan and visit some of the most  majestic place like the mount Fuji and Imperial tokyo 
+
+![This is an image](https://github.com/katefross/katefross.github.io/blob/main/ll%23.JPG)
+
+# Certificate 
+
+   Check out my Certificate here [Certificate]
+   
+ # SOCIAL MEDIA  LINKS
+ 
+ YOUTUBE CHANNEL [kATTIE VLOGS ](https://www.youtube.com/channel/UC3sjEZ37NJl3_Kn23JCtOMA/about)
+  
