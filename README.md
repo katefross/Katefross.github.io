@@ -54,8 +54,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 - Basic Programming (C, C++, C#, Java, Python, JavaScript, HTML5/CSS)
 - Basic Data entry
 
-
-
+Check out my curriculum vitae doctument here [CURRICULUM VITAE](https://docs.github.com/categories/github-pages-basics/) or [Google docs](https://support.github.com/contact).
 # About me
  very willing to learn new skills about multimedia and evolving technology. my current hobbies is photography , cosplaying , photo editing and making journal stationary
 <h1 align="center"> Hobbies </h1>
@@ -80,5 +79,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ![This is an image](.jpg)
 
 
-#Travel 
+# Travel 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
