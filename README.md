@@ -67,12 +67,11 @@ for more details check my facebook page [Kiokophotography](https://web.facebook.
 
 ![This is an image](https://github.com/katefross/katefross.github.io/blob/main/sam.jpg)
 
-![This is an image](https://github.com/katefross/katefross.github.io/blob/main/1%20(3).jpg) 
+
 # Cosplay
 
 Since 2014 i joined Cosplay community in Davao city it was fullfilling to recreate some of my favorate characters and give life 
 
-![This is an image](https://github.com/katefross/katefross.github.io/blob/main/1%20(1).jpg)
 
 # Stationary
 
