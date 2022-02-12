@@ -53,31 +53,39 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 - Computer Hardware and Software Maintenance
 - Basic Programming (C, C++, C#, Java, Python, JavaScript, HTML5/CSS)
 - Basic Data entry
+- Basic lightroom editing and photoshop 
+- 
 
-Check out my curriculum vitae doctument here [CURRICULUM VITAE](https://docs.github.com/categories/github-pages-basics/) or [Google docs](https://support.github.com/contact).
+Check out my curriculum vitae doctument here [CURRICULUM VITAE](https://github.com/katefross/katefross.github.io/blob/main/JMC%20ITE%20Practicum%20Curriculum%20Vitae%20Sample.docx).
+
+
 # About me
  very willing to learn new skills about multimedia and evolving technology. my current hobbies is photography , cosplaying , photo editing and making journal stationary
+
+
 <h1 align="center"> Hobbies </h1>
 
 # Photography
 
 I started Photography since 2018 i only use mobilephone that time because camera where so expensive unlike today it can be installment or lay away method.im getting interested and want to learn new skills through photography and that's why i save some of my allowance and bought a camera. my very first camera is Nikon 3500D and Upgraded to Canon and last 2021 i upgrade to Sony A6000. im really thankful for those people who trusted me in my work and hopefully will upgrade soon. here some of my shoots and link of my facebook photography page 
 
-[Kiokophotography]()
+[Kiokophotography](https://web.facebook.com/KiokuMemorys?_rdc=1&_rdr)
 
-![This is an image](.jpg)
 
+![This is an image](https://github.com/katefross/katefross.github.io/blob/main/sam.jpg)
 # Cosplay
 
 Since 2014 i joined Cosplay community in Davao city it was fullfilling to recreate some of my favorate characters and give life 
 
-![This is an image](.jpg)
+![This is an image](https://github.com/katefross/katefross.github.io/blob/main/1%20(1).jpg)
 
 # Stationary
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/katefross/katefross.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-![This is an image](.jpg)
 
 
 # Travel 
+
+### Mount Fuji
+
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
