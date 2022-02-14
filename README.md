@@ -88,7 +88,7 @@ Since 2014 i joined Cosplay community in Davao city it was fullfilling to recrea
 
    Check out my Certificate here [Certificate](https://drive.google.com/drive/folders/1Oxi8XyjSCLsEch0y9IEYK6GmG3VC_jz8?usp=sharing)
    
- # SOCIAL MEDIA  LINKS
+ ## SOCIAL MEDIA  LINKS
  
  YOUTUBE CHANNEL [kATTIE VLOGS ](https://www.youtube.com/channel/UC3sjEZ37NJl3_Kn23JCtOMA/about) and [PANDA3](https://www.youtube.com/channel/UCFN-gUUWEFcWw8OkS9Ya_iQ)
  
