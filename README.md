@@ -77,12 +77,6 @@ for more details check my facebook page [Kiokophotography](https://web.facebook.
 
 Since 2014 i joined Cosplay community in Davao city it was fullfilling to recreate some of my favorate characters and give life 
 
-
-# Stationary
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/katefross/katefross.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-
 # Travel 
 
 ### Mount Fuji and  Imperial Tokyo
@@ -97,5 +91,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
    
  # SOCIAL MEDIA  LINKS
  
- YOUTUBE CHANNEL [kATTIE VLOGS ](https://www.youtube.com/channel/UC3sjEZ37NJl3_Kn23JCtOMA/about)
+ YOUTUBE CHANNEL [kATTIE VLOGS ](https://www.youtube.com/channel/UC3sjEZ37NJl3_Kn23JCtOMA/about) and [PANDA3](https://www.youtube.com/channel/UCFN-gUUWEFcWw8OkS9Ya_iQ)
+ 
   
