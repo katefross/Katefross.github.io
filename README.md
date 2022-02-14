@@ -11,7 +11,6 @@ my current hobbies is photography , cosplaying , photo editing and making journa
 
 <h1 align="center">Personal Information </h1>
 
-<p1>  
 
 - Full name : Kate fross Saramosing  
    
@@ -27,7 +26,7 @@ my current hobbies is photography , cosplaying , photo editing and making journa
    
 - Birth place : Davao City  
    
-- Email : Katefross.saramosing@jmc.edu.ph </p1>
+- Email : Katefross.saramosing@jmc.edu.ph
 
 
 <h1 align="center">Education </h1>
