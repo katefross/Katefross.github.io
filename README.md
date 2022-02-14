@@ -70,7 +70,7 @@ I started Photography since 2018 i only use mobilephone that time because camera
 for more details check my facebook page [Kiokophotography](https://web.facebook.com/KiokuMemorys?_rdc=1&_rdr)
 
 
-![This is an image](https://github.com/katefross/katefross.github.io/blob/main/sam.jpg)
+![This is an image](we.jpg)
 
 
 # Cosplay
@@ -83,11 +83,11 @@ Since 2014 i joined Cosplay community in Davao city it was fullfilling to recrea
 
 - this are is my dream travel aside from wanting to travel localy this is also my dream to visit japan and visit some of the most  majestic place like the mount Fuji and Imperial tokyo 
 
-![This is an image](https://github.com/katefross/katefross.github.io/blob/main/ll%23.JPG)
+![This is an image](ll%23.JPG)
 
 # Certificate 
 
-   Check out my Certificate here [Certificate]
+   Check out my Certificate here [Certificate](https://drive.google.com/drive/folders/1Oxi8XyjSCLsEch0y9IEYK6GmG3VC_jz8?usp=sharing)
    
  # SOCIAL MEDIA  LINKS
  
